@@ -8,6 +8,11 @@ Este repositorio contiene los ejercicios prácticos a desarrollarse durante el t
 
 Primero iniciaremos con una introducción a lo que es la computación afectiva enfocándonos al reconocimiento de personalidad por medio del texto. Después abordaremos lo que son los transformers dentro del aprendizaje profundo. En seguida nos meteremos a los principales modelos usando trannsformers como Bert, RoBERTa, BETO y GPT. Para terminar revisando código de aplicaciones como crear un corpus para reconocimiento automático de personalidad, entrenamiento de modelos de aprendizaje usando Transformers para clasificar personalidad y un ejemplo de reconocimiento de personalidad dentro de una aplicación educativa.
 
+## Instructores
+
+- Dr. Ramón Zatarain Cabada
+- MCC Víctor Manuel Bátiz Beltrán
+
 ## Índice
 
 Abrir índice usando **Google Colab**: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vbatiz/SENAIC2024/blob/main/notebooks/indice.ipynb)
