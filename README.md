@@ -34,6 +34,8 @@ Abrir índice usando **Google Colab**: [![Colab](https://colab.research.google.c
 El trabajo presentado en este repositorio se basa en nuestras investigaciones contenidas en los siguientes artículos. Si alguna parte del repositorio te es útil para tus investigaciones favor de realizar la cita utilizando la referencia correspondiente:
 
 ### Corpus SentiText y Corpus EduSERE
+Barrón Estrada, M. L., Zatarain Cabada, R., Oramas Bustillos, R., & Graff, M. (2020). Opinion mining and emotion recognition applied to learning environments. Expert Systems with Applications, 150, 113265. https://doi.org/10.1016/j.eswa.2020.113265
+
 Zatarain Cabada, R., Barrón Estrada, M. L., Bátiz Beltrán, V. M. (2023). Advanced Applications of Generative AI and Natural Language Processing Models (Chapter 15). Deep Learning Approaches for Affective Computing in Text (pages 306-339). DOI: 10.4018/979-8-3693-0502-7.ch015.
 
 ### Corpus PersonText
