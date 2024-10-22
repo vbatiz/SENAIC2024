@@ -28,3 +28,13 @@ Abrir índice usando **Google Colab**: [![Colab](https://colab.research.google.c
 [TensorFlow Playground](https://playground.tensorflow.org)
 
 [Kaggle Learn](https://www.kaggle.com/learn)
+
+## Referencias
+
+El trabajo presentado en este repositorio se basa en nuestras investigaciones contenidas en los siguientes artículos. Si alguna parte del repositorio te es útil para tus investigaciones favor de realizar la cita utilizando la referencia correspondiente:
+
+### Corpus SentiText y Corpus EduSERE
+Zatarain Cabada, R., Barrón Estrada, M. L., Bátiz Beltrán, V. M. (2023). Advanced Applications of Generative AI and Natural Language Processing Models (Chapter 15). Deep Learning Approaches for Affective Computing in Text (pages 306-339). DOI: 10.4018/979-8-3693-0502-7.ch015.
+
+### Corpus PersonText
+Bátiz Beltrán, V. M., Zatarain Cabada, R., & Barrón Estrada, M. L. (2024). Creation of a Corpus in Spanish for the recognition of personality traits. Computación y Sistemas, Volumen 28, No. 3, 2024. ISSN: 2007-9737. Disponible en línea: https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/4619/3734
