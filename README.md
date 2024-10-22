@@ -23,6 +23,8 @@ Abrir índice usando **Google Colab**: [![Colab](https://colab.research.google.c
 
 [Google Colab](http://colab.research.google.com)
 
+[Biblioteca SimpleTransformers](https://simpletransformers.ai/)
+
 [Hugging Face Learn](https://huggingface.co/learn)
 
 [TensorFlow Playground](https://playground.tensorflow.org)
